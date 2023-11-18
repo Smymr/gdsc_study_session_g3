@@ -1,3 +1,3 @@
- oid main() {
+ void main() {
     print('Sumaya alhilwa '); 
  }
